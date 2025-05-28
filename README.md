@@ -1,4 +1,4 @@
-Hi , ![image](https://github.com/user-attachments/assets/ef6b1b45-2f1e-474c-bdfc-1dae57a1ddb1)
+Hi ,
 I'm Widney Leme
 
 🔥 Front-end Developer in progress | Focused on learning and growing every day
