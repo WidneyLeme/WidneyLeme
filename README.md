@@ -1,13 +1,25 @@
-👋 Hi! I'm Widney Leme, a Brazilian 🇧🇷 living in Ireland 🇮🇪 since 2022.  
-🎓 Final semester student in Systems Analysis and Development  
+Hi, I'm Widney Leme  
+Profile views
 
-🧠 Learning tech by day, improving my English daily, and working as a chef 👨‍🍳 by night.  
-💻 Passionate about front-end development (HTML, CSS, JavaScript)  
+🔥 Front-end Developer in progress | Focused on learning and growing every day
 
-🛠️ First project: [WidneyLinks](https://widneyleme.github.io/WidneyLinks/) – a responsive link aggregator  
-💡 I believe in creating opportunities through action, not waiting for the “perfect moment”  
+📘 Final semester of Systems Analysis & Development  
+🌍 Brazilian living in Ireland since 2022  
+💻 Passionate about HTML, CSS & JavaScript  
+🎯 Seeking first opportunity in tech (internship, freelance, or volunteer)
 
-💪 Resilience is my strongest skill — in code, in life, and in every challenge  
-🚀 Open to internships, volunteer work or first tech jobs — ready to learn and grow!
+🛠️ First project: [WidneyLinks](https://widneyleme.github.io/WidneyLinks/)  
+📚 Learning English and coding daily  
+💬 Ask me about resilience, curiosity and growth mindset 💪  
+⚡ Fun fact: Chef by profession, coder by passion 👨‍🍳💻
 
-Let’s connect! 🤝
+👨‍💻 More soon at widneyleme.dev *(coming soon)*
+
+---
+
+### 📬 Let’s connect! 🤝
+
+[Gmail](widneysilva17@gmail.com) · [LinkedIn](https://linkedin.com/in/widneyleme) · [Instagram](https://instagram.com/widneyleme) · [GitHub](https://github.com/widneyleme)
+
+
+
